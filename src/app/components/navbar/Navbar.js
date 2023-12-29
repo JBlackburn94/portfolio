@@ -6,12 +6,12 @@ export default function Navbar() {
     {
       id: 1,
       title: "Home",
-      link: "/",
+      link: "#home",
     },
     {
       id: 2,
-      title: "Skills",
-      link: "#skills",
+      title: "About",
+      link: "#about",
     },
     {
       id: 3,
